@@ -22,7 +22,6 @@ llm = ChatGoogleGenerativeAI(
     api_key=os.getenv("GOOGLE_API_KEY"),
     streaming=True
 )
-llm = ChatOpenAI()
 
 
 search_tool = DuckDuckGoSearchRun(region="us-en")
