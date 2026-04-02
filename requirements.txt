@@ -1,8 +1,10 @@
 # Core AI and Agents
 langchain-google-genai
-langgraph
 langchain-core
 python-dotenv
+langgraph
+langgraph-checkpoint-sqlite
+...
 
 # Backend (FastAPI)
 fastapi
