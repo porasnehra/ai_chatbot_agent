@@ -11,6 +11,9 @@ from langchain_core.tools import tool
 from dotenv import load_dotenv
 import sqlite3
 import requests
+import os
+import requests
+from dotenv import load_dotenv
 
 load_dotenv()
 
