@@ -4,7 +4,6 @@ langchain-core
 python-dotenv
 langgraph
 langgraph-checkpoint-sqlite
-...
 
 # Backend (FastAPI)
 fastapi
