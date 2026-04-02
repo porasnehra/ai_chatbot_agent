@@ -5,6 +5,27 @@ python-dotenv
 langgraph
 langgraph-checkpoint-sqlite
 
+
+# Core AI and Agents
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+
+# Persistence (Fixes the SqliteSaver error)
+langgraph-checkpoint-sqlite
+
+# Backend & Web
+streamlit
+requests
+python-dotenv
+
+# API & Search Tools (Fixes the DuckDuckGo error)
+duckduckgo-search
+
+# Optional but recommended for stability
+pydantic
 # Backend (FastAPI)
 fastapi
 uvicorn
